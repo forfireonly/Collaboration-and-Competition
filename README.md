@@ -26,6 +26,8 @@ For this project, you will not need to install Unity - this is because we have a
 - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
 - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 
+Then, place the file in the p3_collab-compet/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
+
 ## Instructions
 
 Run [TennisNotebookPPO.ipynb](https://github.com/forfireonly/Collaboration-and-Competition/blob/master/TennisNotebookPPO.ipynb) notebook using the drlnd kernel to train the agent.
